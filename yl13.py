@@ -1,7 +1,6 @@
-lemmikloom = ["rott"]
-print(lemmikloom)
-print(lemmikloom[0])
-lemmikloom.append("r")
-
-
-
+name = list(print("fenneks"))
+lemmikloom = list
+print(puuviljad)
+print(puuviljad[0])
+ First_letter = F[0]
+ 

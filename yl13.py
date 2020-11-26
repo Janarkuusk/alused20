@@ -1,6 +1,5 @@
-name = list(print("fenneks"))
-lemmikloom = list
-print(puuviljad)
-print(puuviljad[0])
- First_letter = F[0]
- 
+lemmikloom = list(input("sisesta lemmikloom: "))
+
+first_letter = lemmikloom[0]
+
+
